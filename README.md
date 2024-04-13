@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9b948516-d347-4caa-8ea1-1c0d07902d97/deploy-status?branch=main)](https://app.netlify.com/sites/warm-nougat-97f0c3/deploys)
+![My-App Status](https://github.com//tokayazy/my-app/actions/workflows/nextjs.yml/badge.svg?branch=main)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
