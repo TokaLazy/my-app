@@ -1,3 +1,5 @@
+[![Github Status](https://github.com/tokayazy/my-app/actions/workflows/nextjs.yml/badge.svg?branch=main&event=push)](https://tokayazy.github.io/my-app/)
+[![Github Status](https://github.com/tokayazy/my-app/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://tokayazy.github.io/my-app/)
 [![Github Status](https://github.com/tokayazy/my-app/actions/workflows/nextjs.yml/badge.svg?event=push)](https://tokayazy.github.io/my-app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
